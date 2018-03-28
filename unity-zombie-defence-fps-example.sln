@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2017
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity-zombie-defence-fps-example", "unity-zombie-defence-fps-example.csproj", "{77206247-FFBD-E6C9-A779-742A470D25AF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity-zombie-defence-fps-example.Plugins", "unity-zombie-defence-fps-example.Plugins.csproj", "{C76E7CAA-BDB0-87F4-20EC-E602E7AB843D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "unity-zombie-defence-fps-example.Editor.Plugins", "unity-zombie-defence-fps-example.Editor.Plugins.csproj", "{5668C01B-6ECD-B728-171B-CB069797A3AE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77206247-FFBD-E6C9-A779-742A470D25AF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77206247-FFBD-E6C9-A779-742A470D25AF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77206247-FFBD-E6C9-A779-742A470D25AF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77206247-FFBD-E6C9-A779-742A470D25AF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C76E7CAA-BDB0-87F4-20EC-E602E7AB843D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C76E7CAA-BDB0-87F4-20EC-E602E7AB843D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C76E7CAA-BDB0-87F4-20EC-E602E7AB843D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C76E7CAA-BDB0-87F4-20EC-E602E7AB843D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5668C01B-6ECD-B728-171B-CB069797A3AE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5668C01B-6ECD-B728-171B-CB069797A3AE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5668C01B-6ECD-B728-171B-CB069797A3AE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5668C01B-6ECD-B728-171B-CB069797A3AE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
